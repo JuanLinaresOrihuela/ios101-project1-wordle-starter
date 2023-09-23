@@ -2,7 +2,7 @@
 //  BoardController.swift
 //  Wordle
 //
-//  Created by Mari Batilando on 2/20/23.
+//  Created by Mari Batilando on 2/20/23. Updated by Juan Linares Orihuela on 09/22/23.
 //
 
 import Foundation
