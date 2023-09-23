@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-![Project1_WordleSimulator](https://github.com/JuanLinaresOrihuela/Project1_WordleSimulator/assets/122564427/8b7794e5-126c-484e-bcfe-a89aebe57f8e.gif)
+![Project1_WordleSimulator](Assets/Project1_WordleSimulator.gif)
 
 ## Notes
 
